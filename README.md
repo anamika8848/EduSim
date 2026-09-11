@@ -86,7 +86,7 @@ EduSim/
 ├── LICENSE
 └── README.md
 
-Authentication
+##Authentication
 
 EduSim uses Spring Security and JWT-based authentication
 to securely authenticate users and provide role-based access to different features.
